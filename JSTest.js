@@ -2,17 +2,17 @@
 var day = dayFunction => { 
  switch(dayFunction.toLowerCase()) {
 	case 'monday' :
-		console.log('Monday');
+		console.log('Idali');
 	case 'tuesday' :
-		console.log('Monday');
+		console.log('Dosa');
 	case 'wednesday' :
-		console.log('Monday');
+		console.log('Utappa');
 	case 'thursday' :
-		console.log('Monday');
+		console.log('Poha');
 	case 'friday' :
-		console.log('Monday');
+		console.log('Upama');
 	case 'saturday' :
-		console.log('Monday');
+		console.log('noodles');
 }
 }
 day('tuesday');
